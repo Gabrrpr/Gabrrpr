@@ -1,76 +1,68 @@
-<!-- Dynamic Typing Animation Header -->
+<!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+[Your+Name]+👋;Software+Engineer+&+IT+Enthusiast;Building+Systems+for+Real-World+Impact" alt="Typing SVG" />
+
+# Hi there, I'm Gabriel Batac 👋
+
+**IT Student @ FEU Institute of Technology · 🇵🇭 Philippines**
+
+*Building full-stack solutions, one commit at a time.*
+
 </div>
 
-<!-- Animated Rainbow Divider -->
+---
+
+## 🧑‍💻 About Me
+
+I'm an IT student at **Far Eastern University - Institute of Technology (FEU Tech)**, focused on building scalable full-stack web applications. I enjoy bridging clean frontend experiences with robust backend logic and well-structured databases.
+
+- 🎓 Currently pursuing a degree in **Information Technology**
+- 🔭 Focused on **Full-Stack Web Development**
+- 🌱 Continuously learning system design, APIs, and cloud fundamentals
+- 🇵🇭 Based in the Philippines
+
+---
+
+## ⚡ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Paradigms & Concepts**
+
+`Object-Oriented Programming` · `REST APIs` · `Full-Stack Development`
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
+
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true)
+
 </div>
 
-<br>
+---
 
-<!-- Two-Column Layout for About Me & Avatar/GIF -->
 <div align="center">
-  <table>
-    <tr>
-      <td width="60%">
-        <h3>🚀 About Me</h3>
-        <p>I am a software developer passionate about crafting robust, scalable solutions. From architecting complex databases to conducting qualitative research, I love breaking down problems and building things that matter.</p>
-        <ul>
-          <li>🔭 <b>Currently Building:</b> <i>Bloomora</i> and a transactional processing system for a travel agency.</li>
-          <li>🌍 <b>Sustainability & Mapping:</b> Working on <i>TerraWorks</i> (a mountain quarrying information system) and a web/mobile village repair monitoring system.</li>
-          <li>🔬 <b>Research:</b> Conducting studies on digital vs. handwritten note-taking outcomes in College Physics.</li>
-          <li>🌱 <b>Learning:</b> [Insert Framework/Language]</li>
-        </ul>
-      </td>
-      <td width="40%" align="center">
-        <!-- Replace this URL with your own photo or leave it as this cool coding GIF -->
-        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding GIF" />
-      </td>
-    </tr>
-  </table>
-</div>
 
-<!-- Interactive Collapsible Section -->
-<details>
-  <summary><b>✨ Beyond the Code (Click to expand)</b></summary>
-  <br>
-  <p>When I'm away from the keyboard, you can find me:</p>
-  <ul>
-    <li>Exploring complex concepts in <b>Physics</b>.</li>
-    <li>Researching the optimal study habits for STEM students.</li>
-    <li>Debating my next hairstyle (always torn between a fresh fade, a wolf cut, or braids! ✂️).</li>
-  </ul>
-</details>
+*"First, solve the problem. Then, write the code."*
 
-<br>
-
-### 🛠️ My Tech Stack
-<!-- Beautiful, modern, animated skill icons. Add or remove technologies by changing the comma-separated list in the URL -->
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,java,react,tailwind,nodejs,mysql,git,figma,html,css,vscode&theme=dark&perline=12" alt="Skill Icons" />
-  </a>
-</div>
-
-<br>
-
-### 📊 GitHub Stats & Streaks
-<!-- Sleek, dark-mode stats cards that update automatically -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<!-- Interactive Contact Buttons -->
-<div align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </div>
