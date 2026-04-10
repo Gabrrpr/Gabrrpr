@@ -53,7 +53,7 @@ I'm an IT student at **Far Eastern University - Institute of Technology (FEU Tec
 
 <div align="center">
 
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabrrpr&show_icons=true&theme=github_dark&hide_border=true)
+![Gabriel's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Gabrrpr&cc=444&tc=fff&ic=fff&bc=000)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrrpr&layout=compact&theme=github_dark&hide_border=true)
 
